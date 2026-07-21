@@ -114,27 +114,5 @@ const [postList, dispatchPostList] = useReducer(
 
 const storedPosts = localStorage.getItem("posts");
   
-const Default_Post_List = [
-  {
-    id: 1,
-    date: "08/07/2026",
-    userId: "101",
-    title: "Goto Trip",
-    body: "Hi friends, we are going to trip and have a lot of enjoy!",
-    reactions: 4,
-    liked: false,
-    tags: ["Trip", "Enjoy", "Family"]
-  },
-
-  {
-    id: 2,
-    date: "09/07/2026",
-    userId: "102",
-    title: "Learning React.js",
-    body: "Hi friends, i am learning React.js with a lot of fun.",
-    reactions: 9,
-    liked: false,
-    tags: ["React", "Learning", "Fun"]
-  }
-];
+const Default_Post_List = [];
 export default PostListProvider;
