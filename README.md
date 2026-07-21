@@ -157,22 +157,34 @@ The project follows a clean component-based architecture and uses **Context API*
 # 📂 Folder Structure
 
 ```
-src
+social-media-app
 │
-├── components
-│ ├── Header.jsx
-│ ├── Footer.jsx
-│ ├── Sidebar.jsx
-│ ├── Post.jsx
-│ ├── PostList.jsx
-│ └── CreatePost.jsx
+│──src
+│   │
+│   │──components
+│   │     ├── Header.jsx
+│   │     ├── Footer.jsx
+│   │     ├── Sidebar.jsx
+│   │     ├── Post.jsx
+│   │     ├── PostList.jsx
+│   │     └── CreatePost.jsx
+│   │     ├── store
+│   │           └── post-list-store.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
 │
-├── store
-│ └── post-list-store.jsx
+│──screenshots
+│      │
+│      │──home.png
+│      │──create.png
+│      │──like.png
+│      │──search.png
+│      │──dark.png
+│      │──mobile.png
 │
-├── App.jsx
-├── App.css
-└── main.jsx
+
 ```
 
 ---
@@ -185,6 +197,8 @@ src
 
 Feel free to connect with me on LinkedIn and check out my projects!
 
+Linkedin (https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
+
 ⭐ If you like this project, don't forget to star the repository!
 
 ---
@@ -193,7 +207,3 @@ Feel free to connect with me on LinkedIn and check out my projects!
 
 **Kashan Ghori**  
 🔗 https://github.com/KG-SE
-
-# Linkedin
-
-🔗 (https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
