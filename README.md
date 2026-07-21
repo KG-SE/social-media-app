@@ -194,4 +194,6 @@ Feel free to connect with me on LinkedIn and check out my projects!
 **Kashan Ghori**  
 🔗 https://github.com/KG-SE
 
-Linkedin: (https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
+# Linkedin
+
+🔗 (https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
