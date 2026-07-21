@@ -38,7 +38,7 @@ The project follows a clean component-based architecture and uses **Context API*
 
 🔗 **Live Website**
 
-(Add Your Vercel Link Here)
+(https://kg-se.github.io/social-media-app/)
 
 ---
 
@@ -50,15 +50,21 @@ The project follows a clean component-based architecture and uses **Context API*
 
 ---
 
-## 🌙 Dark Mode
+## 👍 Like Fearure
 
-![Dark Mode](./screenshots/dark-mode.png)
+![Like](./screenshots/like.png)
 
 ---
 
 ## 🔍 Search Feature
 
 ![Search](./screenshots/search.png)
+
+---
+
+## 🌙 Dark Mode
+
+![Dark Mode](./screenshots/dark-mode.png)
 
 ---
 
@@ -144,8 +150,6 @@ The project follows a clean component-based architecture and uses **Context API*
 - CSS3
 - React Icons
 - React Toastify
-- Context API
-- useReducer
 - Local Storage
 
 ---
@@ -173,45 +177,21 @@ src
 
 ---
 
-# ⚙ Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/social-media-react-app.git
-
-cd social-media-react-app
-
-npm install
-
-npm run dev
-```
+💡 This project helped me improve my react concepts.
 
 ---
 
-# 🎯 Future Improvements
+## 🤝 Connect with Me
 
-- User Authentication
-- Backend Integration
-- Comments System
-- Image Upload
-- Edit Post
-- User Profile
-- Share Posts
-- API Integration
+Feel free to connect with me on LinkedIn and check out my projects!
+
+⭐ If you like this project, don't forget to star the repository!
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Kashan Ghori**
+**Kashan Ghori**  
+🔗 https://github.com/KG-SE
 
-Frontend Developer
-
-GitHub:
-https://github.com/KG-SE
-
-LinkedIn:
-(Add Your LinkedIn)
-
----
-
-⭐ If you like this project, don't forget to give it a Star.
+Linkedin: (https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
