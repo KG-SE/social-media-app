@@ -34,11 +34,7 @@ The project follows a clean component-based architecture and uses **Context API*
 
 ---
 
-# 🚀 Live Demo
-
-🔗 **Live Website**
-
-(https://kg-se.github.io/social-media-app/)
+# 🔗Live Demo(https://kg-se.github.io/social-media-app/)
 
 ---
 
