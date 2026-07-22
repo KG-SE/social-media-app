@@ -34,7 +34,7 @@ The project follows a clean component-based architecture and uses **Context API*
 
 ---
 
-# 🔗Live Demo(https://kg-se.github.io/social-media-app/)
+[🔗Live Demo](https://kg-se.github.io/social-media-app/)
 
 ---
 
@@ -193,13 +193,14 @@ social-media-app
 
 Feel free to connect with me on LinkedIn and check out my projects!
 
-Linkedin (https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
-
 ⭐ If you like this project, don't forget to star the repository!
+
+[🔗Linkedin](https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
+
+[🔗GitHub](https://github.com/KG-SE)
 
 ---
 
 ## 👨‍💻 Author
 
-**Kashan Ghori**  
-🔗 https://github.com/KG-SE
+**Kashan Ghori**
